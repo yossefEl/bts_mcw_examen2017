@@ -1,0 +1,8 @@
+body{
+    height: 100%;
+    background-color: #f8f9fa;
+}
+.login-form{
+    margin-top:11%;
+    width: 50%;
+}
